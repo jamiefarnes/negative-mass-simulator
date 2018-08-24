@@ -175,8 +175,8 @@ def run_nbody():
         position, velocity = apply_boundary_conditions(position, velocity, limit, radius)
         
         # Save the data:
-        save_data(position, './data/position' + str(index+1) + '.hdf5', chunks_value)
-        save_data(velocity, './data/velocity' + str(index+1) + '.hdf5', chunks_value)
+        save_data(position, './DATA/position' + str(index+1) + '.hdf5', chunks_value)
+        save_data(velocity, './DATA/velocity' + str(index+1) + '.hdf5', chunks_value)
         index = index+1
         time_steps = time_steps-1
     
