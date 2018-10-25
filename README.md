@@ -4,7 +4,9 @@ Negative Mass N-body Simulation Codes
 This software allows one to perform three-dimensional (3D) gravitational N-body simulations in python, using both positive and negative masses.
 
 These are corresponding codes for the paper "A unifying theory of dark energy and dark matter: Negative masses and matter creation within a modified LambdaCDM framework", available at:
+
 http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1712.07962
+
 https://arxiv.org/abs/1712.07962
 
 The paper has been accepted for publication in Astronomy and Astrophysics (A&A).
